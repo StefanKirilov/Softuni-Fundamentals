@@ -1,0 +1,1 @@
+console.log(`${hero name}\nHP: ${current HP}\nMP: ${current MP}`);
